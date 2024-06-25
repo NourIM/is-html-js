@@ -1,5 +1,5 @@
 {
-	"name": "is-html",
+	"name": "is-html-js",
 	"version": "3.1.0",
 	"description": "Check if a string is HTML",
 	"license": "MIT",
@@ -21,7 +21,6 @@
 	},
 	"files": [
 		"index.js",
-		"index.d.ts"
 	],
 	"keywords": [
 		"html",
