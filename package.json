@@ -3,16 +3,15 @@
 	"version": "3.1.0",
 	"description": "Check if a string is HTML",
 	"license": "MIT",
-	"repository": "sindresorhus/is-html",
+	"repository": "nalmanasrah/is-html-js",
 	"funding": "https://github.com/sponsors/sindresorhus",
 	"author": {
 		"name": "Sindre Sorhus",
 		"email": "sindresorhus@gmail.com",
 		"url": "https://sindresorhus.com"
 	},
-	"type": "module",
+	"type": "commonjs",
 	"exports": "./index.js",
-	"types": "./index.d.ts",
 	"sideEffects": false,
 	"engines": {
 		"node": "^12.20.0 || ^14.13.1 || >=16.0.0"
